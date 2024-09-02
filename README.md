@@ -1,5 +1,6 @@
 # roomsense-iq-password-fix
 usage
+install esptool.py 
 download firmware from https://github.com/roomsense/firmware
 name the file firmware.bin
 run 
